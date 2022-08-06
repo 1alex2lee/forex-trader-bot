@@ -21,5 +21,4 @@ if trade_mode = 'average':
             trade.sell(currency)
         elif now < avg*1.05:
             trade.buy(currency)
-        
-
+    
