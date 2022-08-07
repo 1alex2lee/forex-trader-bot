@@ -1,0 +1,15 @@
+algorithm: average
+# average, 
+average_period: 5
+
+buy_percentage: 5
+
+base_currency: GBP
+
+buy_currency: USD
+# using GBP, options to buy : 'USD','EUR'
+trade_mode: test
+# test, actual
+time_after_check: 30
+#minutes
+fixer_api_key: 0z3crcj5qn4kCEecLQnsxWOiF9CCXJKQ
