@@ -1,0 +1,8 @@
+algorithm: average
+# average, 
+average_period: 5
+
+currency: USD
+# using GBP, options to buy : 'USD','EUR'
+trade_mode: test
+# test, actual
